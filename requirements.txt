@@ -1,1 +1,2 @@
+jupyterlab
 git+https://github.com/hyperbard/hyperbard@main
