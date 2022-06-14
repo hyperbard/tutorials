@@ -1,3 +1,10 @@
+# Custom
+data
+graphdata
+metadata
+rawdata
+DATALICENSE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
