@@ -1,2 +1,3 @@
-jupyterlab
+pandas==1.4.2
 git+https://github.com/hyperbard/hyperbard@main
+jupyterlab
