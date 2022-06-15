@@ -1,6 +1,0 @@
-#!/bin/bash
-
-wget -q -O hyperbard_data.zip "https://zenodo.org/record/6627159/files/hyperbard_data.zip"
-unzip hyperbard_data.zip
-mv hyperbard_data/* .
-rm hyperbard_data.zip
