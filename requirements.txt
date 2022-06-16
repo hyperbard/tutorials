@@ -1,2 +1,3 @@
 git+https://github.com/hyperbard/hyperbard@main
 jupyterlab
+nb_black
